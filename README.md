@@ -1,4 +1,4 @@
-# shayna
+# Eventy Page
 
 ## Project setup
 ```
